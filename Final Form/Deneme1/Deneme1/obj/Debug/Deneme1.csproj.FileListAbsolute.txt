@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Deneme1\Deneme1\bin\Debug\Deneme1.exe.config
+C:\Users\HP\source\repos\Deneme1\Deneme1\bin\Debug\Deneme1.exe
+C:\Users\HP\source\repos\Deneme1\Deneme1\bin\Debug\Deneme1.pdb
+C:\Users\HP\source\repos\Deneme1\Deneme1\obj\Debug\Deneme1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Deneme1\Deneme1\obj\Debug\Deneme1.Form1.resources
+C:\Users\HP\source\repos\Deneme1\Deneme1\obj\Debug\Deneme1.Properties.Resources.resources
+C:\Users\HP\source\repos\Deneme1\Deneme1\obj\Debug\Deneme1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Deneme1\Deneme1\obj\Debug\Deneme1.exe
+C:\Users\HP\source\repos\Deneme1\Deneme1\obj\Debug\Deneme1.pdb
